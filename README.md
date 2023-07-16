@@ -1,2 +1,2 @@
 
-<img src="https://www.codewars.com/users/EvgeniiK99/badges/large" alt="badge">
+<img src="https://www.codewars.com/users/EvgeniiK99/badges/small" alt="badge">
